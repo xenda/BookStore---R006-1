@@ -1,0 +1,2 @@
+class PersonBooksController < ApplicationController
+end
